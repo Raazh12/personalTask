@@ -1,0 +1,23 @@
+{
+  "name": "personaltask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "asap": "^2.0.6",
+    "dezalgo": "^1.0.4",
+    "formidable": "^3.5.2",
+    "hexoid": "^2.0.0",
+    "once": "^1.4.0",
+    "wrappy": "^1.0.2"
+  },
+  
+  "devDependencies": {},
+  "scripts": {
+ "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
